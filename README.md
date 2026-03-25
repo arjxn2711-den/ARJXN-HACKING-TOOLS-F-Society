@@ -115,8 +115,6 @@ Download [Termux](https://play.google.com/store/apps/details?id=com.termux)
 bash <(wget -qO- https://git.io/vAtmB)
 ```
 
-Follow this video [Arif - Tech](https://www.youtube.com/watch?v=JwK5oOBjpgQ)
-
 ## Installation [Windows](https://wikipedia.org/wiki/Microsoft_Windows)[![alt tag](http://icons.iconarchive.com/icons/yootheme/social-bookmark/32/social-windows-button-icon.png)](https://fr.wikipedia.org/wiki/Microsoft_Windows)
 
 Download Linux Bash Like [Cygwin](https://www.cygwin.com/)
@@ -147,24 +145,6 @@ docker-compose down # destroys instance
 [![asciicast](https://asciinema.org/a/URj2nvpbYpeJyJe43KlASZ7fz.png)](https://asciinema.org/a/URj2nvpbYpeJyJe43KlASZ7fz)
 
 ![alt logo](https://media.giphy.com/media/xT0xeFxyHAKirrLa24/giphy.gif)
-
-# Contributors
-
-[alexcreek](https://github.com/alexcreek)
-
-[mswell](https://github.com/mswell)
-
-[Ev3](https://github.com/Ev3)
-
-[huangsam](https://github.com/huangsam)
-
-[RyanFilho](https://github.com/RyanFilho)
-
-[gabru-md](https://github.com/gabru-md)
-
-[jdrago999](https://github.com/jdrago999)
-
-[CRO-TheHacker](https://github.com/CRO-THEHACKER)
 
 # License
 
