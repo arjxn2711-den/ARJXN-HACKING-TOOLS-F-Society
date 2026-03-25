@@ -7,9 +7,7 @@
 
 A Penetration Testing Framework, you will have every script that a hacker needs. Works with Python 2. For a Python 3 version see our updated version at [`fsociety-team/fsociety`](https://github.com/fsociety-team/fsociety).
 
-## Fsociety Contains All Tools Used in Mr. Robot Series
-
-[![Mr. Robot](http://nikolaskama.me/content/images/2016/07/mr-robot-1.gif)](https://wikipedia.org/wiki/Mr._Robot)
+## Fsociety (Fuck Society) Contains All Tools Necessary for Hackers
 
 ## Menu
 
@@ -101,7 +99,7 @@ A Penetration Testing Framework, you will have every script that a hacker needs.
 
 # Installation
 
-## Installation [Linux](https://wikipedia.org/wiki/Linux) [![alt tag](http://icons.iconarchive.com/icons/dakirby309/simply-styled/32/OS-Linux-icon.png)](https://fr.wikipedia.org/wiki/Linux)
+## Installation [Linux]
 
 ```bash
 bash <(wget -qO- https://git.io/vAtmB)
@@ -115,7 +113,7 @@ Download [Termux](https://play.google.com/store/apps/details?id=com.termux)
 bash <(wget -qO- https://git.io/vAtmB)
 ```
 
-## Installation [Windows](https://wikipedia.org/wiki/Microsoft_Windows)[![alt tag](http://icons.iconarchive.com/icons/yootheme/social-bookmark/32/social-windows-button-icon.png)](https://fr.wikipedia.org/wiki/Microsoft_Windows)
+## Installation [Windows]
 
 Download Linux Bash Like [Cygwin](https://www.cygwin.com/)
 
@@ -149,3 +147,5 @@ docker-compose down # destroys instance
 # License
 
 [MIT Licence](https://github.com/Manisso/fsociety/blob/master/LICENSE)
+
+Made by Arjun S. Vishnoi
