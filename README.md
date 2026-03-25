@@ -147,3 +147,8 @@ docker-compose down # destroys instance
 [MIT Licence](https://github.com/Manisso/fsociety/blob/master/LICENSE)
 
 Made by Arjun S. Vishnoi
+
+ ©️ Copyright Message
+>> Copyright © 2026 Arjun S. Vishnoi
+>All rights reserved. This Python project, along with its code, documentation, and any associated files, is the intellectual property of ANONYMOUS CYBER. You may not reproduce, distribute, or modify the contents of this repository without explicit permission from the owner.
+# Give A Star ⭐
